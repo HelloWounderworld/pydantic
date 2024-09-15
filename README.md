@@ -38,9 +38,9 @@ If you prefer, with virtual environment. you can use uv to manage more easily ve
 
         source environment_name/bin/activate
 
-5. Now, you can install, using pip, fastapi package:
+5. Now, you can install, using pip, pydantic package:
 
-        pip install "fastapi[standard]"
+        pip install pydantic
 
     If you have a requirements.txt, just copy it inside of virtual environment directory and run following command
 
