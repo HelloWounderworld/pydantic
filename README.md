@@ -60,6 +60,15 @@ Tip: If you want to get out of the virtual environment just type
 
 ## References
 
-1. [Good practice using Pydantic with Fast API][1]
+1. [Pydantic Library][1]
+2. [Pydantic Pypi][2]
+3. [Pydantic in GitHub][3]
+4. [Pydantic in Github - More general][4]
 
 [1]: https://docs.pydantic.dev/latest/
+
+[2]: https://pypi.org/project/pydantic/
+
+[3]: https://github.com/pydantic/pydantic
+
+[4]: https://github.com/pydantic
