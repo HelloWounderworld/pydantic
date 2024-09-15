@@ -4,6 +4,14 @@ This repository is to study about Pydantic Libraries, where is used about type h
 ## Using Pydantic in Python using virtual environment in Python
 First, we have to create a Python environment.
 
+    https://fastapi.tiangolo.com/pt/virtual-environments/
+
+If you prefer, with virtual environment. you can use uv to manage more easily versions os pythons that you want to use in a local directory
+
+    https://docs.astral.sh/uv/
+
+    https://github.com/astral-sh/uv
+
 1. Checking python version:
 
         python --version or python3 --version
